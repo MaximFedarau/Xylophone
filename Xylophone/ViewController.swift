@@ -18,8 +18,11 @@ class ViewController: UIViewController {
     }
 
     @IBAction func keyPressed(_ sender: UIButton) {
-        sender.alpha = 1
+        sender.alpha = 0.8
         playSound(fileName: (sender.titleLabel?.text)!)
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.2) {
+            sender.alpha = 1
+        }
     }
     
     func playSound(fileName: String) {
@@ -32,10 +35,6 @@ class ViewController: UIViewController {
         player.play()
 
         
-    }
-
-    @IBAction func keyUnpressed(_ sender: UIButton) {
-        sender.alpha = 0.8
     }
 }
 

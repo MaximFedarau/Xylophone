@@ -32,7 +32,6 @@
                                                 </buttonConfiguration>
                                                 <connections>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ro1-GI-EIp"/>
-                                                    <action selector="keyUnpressed:" destination="BYZ-38-t0r" eventType="touchDown" id="uh9-Zw-iqg"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -57,7 +56,6 @@
                                                 </buttonConfiguration>
                                                 <connections>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="BYy-2A-Kia"/>
-                                                    <action selector="keyUnpressed:" destination="BYZ-38-t0r" eventType="touchDown" id="lzJ-OW-KLe"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -82,7 +80,6 @@
                                                 </buttonConfiguration>
                                                 <connections>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="OP2-lf-I93"/>
-                                                    <action selector="keyUnpressed:" destination="BYZ-38-t0r" eventType="touchDown" id="QXc-sM-A49"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -107,7 +104,6 @@
                                                 </buttonConfiguration>
                                                 <connections>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mrI-jR-bTX"/>
-                                                    <action selector="keyUnpressed:" destination="BYZ-38-t0r" eventType="touchDown" id="ayi-5T-do4"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -132,7 +128,6 @@
                                                 </buttonConfiguration>
                                                 <connections>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="kq9-Vn-TxQ"/>
-                                                    <action selector="keyUnpressed:" destination="BYZ-38-t0r" eventType="touchDown" id="SlF-gN-naR"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -157,7 +152,6 @@
                                                 </buttonConfiguration>
                                                 <connections>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Bty-zd-E3S"/>
-                                                    <action selector="keyUnpressed:" destination="BYZ-38-t0r" eventType="touchDown" id="nq9-ci-OCW"/>
                                                 </connections>
                                             </button>
                                         </subviews>
@@ -187,7 +181,6 @@
                                                 </buttonConfiguration>
                                                 <connections>
                                                     <action selector="keyPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7un-i7-sAI"/>
-                                                    <action selector="keyUnpressed:" destination="BYZ-38-t0r" eventType="touchDown" id="Gez-rT-EEd"/>
                                                 </connections>
                                             </button>
                                         </subviews>
