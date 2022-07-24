@@ -61,8 +61,8 @@
 				941DABF4288D4E6600B55E6A /* ViewController.swift */,
 				941DABF6288D4E6600B55E6A /* Main.storyboard */,
 				941DABF9288D4E6800B55E6A /* Assets.xcassets */,
-				941DABFB288D4E6800B55E6A /* LaunchScreen.storyboard */,
 				941DABFE288D4E6800B55E6A /* Info.plist */,
+				941DABFB288D4E6800B55E6A /* LaunchScreen.storyboard */,
 			);
 			path = Xylophone;
 			sourceTree = "<group>";
